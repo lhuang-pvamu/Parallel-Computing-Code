@@ -1,19 +1,38 @@
 # Parallel-Computing-Code
-It is a repository for COMP 4073 Parallel Computing course at PVAMU.
+It is a repository for the COMP 4073 Parallel Computing course at PVAMU.
+
+## Prerequisites
+You need Linux or Mac OS to build and run these examples.
+* Linux (Ubuntu)
+* GNU compiler (gcc and g++)
 
 ## Getting Started
+Fellow the instructions to get these examples, build and run them.
 
 ### Clone the repository
 ```
 git clone https://github.com/lhuang-pvamu/Parallel-Computing-Code.git
 ``` 
-### Compile your code
+### Build your code
+Go to each directory (such as labs/lab1), and the build the code using make.
+
 ```
+cd labs/lab1
 make
 ```
 
 ### Run your code
+You need to set up the number of threads before you run an OpenMP code.
 ```
-  export OMP_NUM_THREADS=4
-  ./EXECUTABLE_NAME
+export OMP_NUM_THREADS=4
 ```
+You may either run both sequential code and OpenMP code together by:
+```
+make run 
+```
+or you may run them individually:
+```
+./EXECUTABLE_NAME
+```
+
+
