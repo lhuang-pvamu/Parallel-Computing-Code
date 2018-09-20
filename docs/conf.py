@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Parallel Computing Lab'
-copyright = '2018, Lei Huang'
+copyright = '2018, Lei Huang @ Prairie View A & M University'
 author = 'Lei Huang'
 
 # The version info for the project you're documenting, acts as replacement for
