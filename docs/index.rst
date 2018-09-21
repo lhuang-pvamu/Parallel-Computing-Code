@@ -6,15 +6,33 @@
 Welcome to Parallel Computing Lab's documentation!
 ==================================================
 
+It is the codig repository for COMP 4073 Parallel Computing in the Computer Science Department, PVAMU. The goal of these coding labs is to study parallel computing programming usig OpenMP. In each lab, there is a sequential C++ code, and the student needs to write a corresponding parallel program using OpenMP. 
+
+
+Prerequisites
+-------------
+
+You need Linux or Mac OS to build and run these labs.
+
+* Linux (Ubuntu)
+* GNU compiler (gcc and g++)
+* make
+* git
+* editor (Atom, Notepad++, nano, vim, emacs, gedit, etc.)
+
+
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
+   labs/labs.rst
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
