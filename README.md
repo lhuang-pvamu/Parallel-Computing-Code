@@ -5,6 +5,17 @@ It is a repository for the COMP 4073 Parallel Computing course at PVAMU.
 You need Linux or Mac OS to build and run these examples.
 * Linux (Ubuntu)
 * GNU compiler (gcc and g++)
+* git
+* make
+```
+sudo apt install g++
+sudo apt install git
+sudo apt install make
+```
+* any editor (such as vim, nano, notepad++, 
+Atom)
+  * for example, install Notepad++ following instructions from [this link](https://websiteforstudents.com/install-notepad-on-ubuntu-16-04-17-10-18-04-via-snap/)
+
 
 ## Getting Started
 Fellow the instructions to get these examples, build and run them.
