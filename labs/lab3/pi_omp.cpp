@@ -17,7 +17,7 @@ History: Written by Tim Mattson, 11/99.
 #include <omp.h>
 using namespace std;
 
-static long num_steps = 100000000;
+static long num_steps = 1000000000;
 double step;
 int main ()
 {
