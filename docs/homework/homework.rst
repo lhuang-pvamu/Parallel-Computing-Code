@@ -1,4 +1,4 @@
-Parallel Computing Labs
+Parallel Computing Homework
 =======================
 
 .. toctree::
