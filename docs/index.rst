@@ -27,7 +27,7 @@ You need Linux or Mac OS to build and run these labs.
    :caption: Contents:
 
    labs/labs.rst
-
+   homework/homework.rst
 
 
 .. Indices and tables

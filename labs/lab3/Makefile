@@ -2,19 +2,19 @@
 
 include ../../make.def
 
-EXES=loop$(EXE) loop_omp$(EXE) 
+EXES=pi$(EXE) pi_omp$(EXE) 
 
 all: $(EXES)
 
-loop$(EXE): loop.$(OBJ) 
-	$(CLINKER) $(OPTFLAGS) -o loop loop.$(OBJ) $(LIBS)
+pi$(EXE): pi.$(OBJ) 
+	$(CLINKER) $(OPTFLAGS) -o pi pi.$(OBJ) $(LIBS)
 
-loop_omp$(EXE): loop_omp.$(OBJ) 
-	$(CLINKER) $(OMPFLAG) $(OPTFLAGS) -o loop_omp loop_omp.$(OBJ) $(LIBS)
+pi_omp$(EXE): pi_omp.$(OBJ) 
+	$(CLINKER) $(OMPFLAG) $(OPTFLAGS) -o pi_omp pi_omp.$(OBJ) $(LIBS)
 
 run: $(EXES)
-	$(PRE)loop$(EXE) 
-	$(PRE)loop_omp$(EXE) 
+	$(PRE)pi$(EXE) 
+	$(PRE)pi_omp$(EXE) 
 
 clean:
 	$(RM) $(EXES) *.$(OBJ)
