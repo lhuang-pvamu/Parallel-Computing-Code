@@ -3,7 +3,7 @@
 CC          = g++
 CLINKER     = $(CC)
 OMPFLAG	    = -fopenmp
-OPTFLAGS    =  -O3
+OPTFLAGS    =  
 LIBS        = -lm
 PRE         = ./
 
