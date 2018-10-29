@@ -15,6 +15,7 @@
 #include <iostream>
 #include <math.h>
 #include <omp.h>
+using namespace std;
 
 # define NPOINTS 1000
 # define MAXITER 1000
@@ -50,7 +51,7 @@ int main(){
    area=2.0*2.5*1.125*(double)(NPOINTS*NPOINTS-numoutside)/(double)(NPOINTS*NPOINTS);
    error=area/(double)NPOINTS;
 
-   cout << "Area of Mandlebrot set = " area << " +/- "<<error << endl;
+   cout << "Area of Mandlebrot set = "<< area << " +/- "<<error << endl;
    cout <<"Correct answer should be around 1.510659"<< endl;
 
 }
