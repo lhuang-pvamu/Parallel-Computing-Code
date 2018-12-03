@@ -12,7 +12,7 @@ final$(EXE): final.$(OBJ)
 	$(CLINKER) $(OMPFLAG) $(OPTFLAGS) -o final final.$(OBJ) $(LIBS) $(LIBOPENCV)
 
 final_omp$(EXE): final_omp.$(OBJ) 
-	$(CLINKER) $(OMPFLAG) $(OPTFLAGS) -o final_omp final_omp.$(OBJ) $(LIBS)
+	$(CLINKER) $(OMPFLAG) $(OPTFLAGS) -o final_omp final_omp.$(OBJ) $(LIBS) $(LIBOPENCV)
 
 run: $(EXES)
 	$(PRE)final$(EXE) 
