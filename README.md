@@ -1,5 +1,5 @@
 # Parallel-Computing-Code
-It is a repository for the COMP 4073 Parallel Computing course at PVAMU.
+It is a repository for the Parallel Computing course at PVAMU.
 
 ## Prerequisites
 You need Linux or Mac OS to build and run these examples.
