@@ -13,7 +13,7 @@ sudo apt install git
 sudo apt install make
 ```
 * any editor (such as vim, nano, notepad++, 
-Atom)
+Atom, Visual Studio Code)
   * for example, install Notepad++ following instructions from [this link](https://websiteforstudents.com/install-notepad-on-ubuntu-16-04-17-10-18-04-via-snap/)
 
 
