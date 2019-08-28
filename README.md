@@ -2,8 +2,11 @@
 It is a repository for the Parallel Computing course at PVAMU.
 
 ## Prerequisites
+
 You need Linux or Mac OS to build and run these examples.
-* Linux (Ubuntu)
+
+### Linux Setup ###
+You need to install the following software on Linux (recommend Ubuntu)
 * GNU compiler (gcc and g++)
 * git
 * make
@@ -12,6 +15,16 @@ sudo apt install g++
 sudo apt install git
 sudo apt install make
 ```
+
+### Mac Setup ###
+You need to install xcode and libomp
+
+```
+xcode-select --install
+brew install libomp
+```
+
+### Install IDE ###
 * any editor (such as vim, nano, notepad++, 
 Atom, Visual Studio Code)
   * for example, install Notepad++ following instructions from [this link](https://websiteforstudents.com/install-notepad-on-ubuntu-16-04-17-10-18-04-via-snap/)
