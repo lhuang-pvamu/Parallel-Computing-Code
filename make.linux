@@ -1,7 +1,6 @@
-# for g++ compiler on Apple OS-X
+# for g++ compiler on Linux
 # copy to make.def
-#CC          = g++
-CC          = clang++
+CC          = g++
 CLINKER     = $(CC)
 OMPFLAG	    = -fopenmp
 OPTFLAGS    =  
