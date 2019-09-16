@@ -39,6 +39,11 @@ git clone https://github.com/lhuang-pvamu/Parallel-Computing-Code.git
 ``` 
 ### Build your code
 Go to each directory (such as labs/lab1), and the build the code using make.
+```
+cd Parallel-Computing-Code
+```
+
+If you are using Mac, you need to replace the make.def file with make.mac. Simply copy make.mac to overrite make.def. 
 
 ```
 cd labs/lab1
