@@ -40,7 +40,7 @@ You need to set up your Python enviroments first. Download the environment.yml i
 2. Select the parallel_computing as your environment,
 3. Launch JupyterLab,
 
-![Navigator](Env/Launch.png)
+![Navigator](Env/launch.png)
 
 4. Go to your web browser, it started....
 
