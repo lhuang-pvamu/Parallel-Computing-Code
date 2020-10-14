@@ -22,7 +22,26 @@ https://docs.anaconda.com/anaconda/navigator/
 
 You need to set up your Python enviroments first. Download the environment.xml in the github repository under Python/Env and use it as the imported enviroment file. 
 
+- Select the Environments in Anaconda Navigator, and then click the import button.
+
 ![Navigator](Env/navigator.png)
+
+- Select the file icon to select your environment file.
+
+![Navigator](Env/import.png)
+
+- Choose the environment.yml file in the Python/Env folder and start importing your enviornment.
+
+![Navigator](Env/env-selection.png)
+
+## 4. Start your JupyterLab
+
+1. Go back to Home,
+2. Select the parallel_computing as your environment,
+3. Launch JupyterLab,
+4. Go to your web browser, it started....
+
+## Congratulations, you are good to start programming using Jupyter Notebook with Anaconda Python! Happy coding.
 
 
 
