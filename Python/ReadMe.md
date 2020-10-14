@@ -20,7 +20,7 @@ After launching the Anaconda Navigator, you may see the Home page of several Pyt
 
 https://docs.anaconda.com/anaconda/navigator/
 
-You need to set up your Python enviroments first. Download the environment.xml in the github repository under Python/Env and use it as the imported enviroment file. 
+You need to set up your Python enviroments first. Download the environment.yml in the github repository under Python/Env and use it as the imported enviroment file. 
 
 - Select the Environments in Anaconda Navigator, and then click the import button.
 
