@@ -4,7 +4,7 @@
    
 You may download Anaconda Python from its official website: https://www.anaconda.com
 
-Anaconda Python is a python programming environment focusing on data science and computing. It is a cross-platform system when you may install on Windows, Linux or Mac. You may find the installation instructions for your OS on the following webpage: 
+Anaconda Python is a python programming environment focusing on data science and computing. It is a cross-platform system where you may install on Windows, Linux or Mac. You may find the installation instructions for your OS on the following webpage: 
    
 https://docs.anaconda.com/anaconda/install/
 
