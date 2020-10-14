@@ -1,4 +1,4 @@
-# It is the setup instructions for using Anaconda Python
+# It is the setup instruction for using Anaconda Python with Navigator
 
 ## 1. Download and install Anaconda Python:
    
@@ -45,6 +45,8 @@ You need to set up your Python enviroments first. Download the environment.yml i
 4. Go to your web browser, it started....
 
 ![Navigator](Env/Jupyter.png)
+
+--------
 
 ## Congratulations, you are good to start programming using Jupyter Notebook with Anaconda Python! Happy coding.
 
