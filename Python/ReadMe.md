@@ -41,6 +41,8 @@ You need to set up your Python enviroments first. Download the environment.xml i
 3. Launch JupyterLab,
 4. Go to your web browser, it started....
 
+![Navigator](Env/Jupyter.png)
+
 ## Congratulations, you are good to start programming using Jupyter Notebook with Anaconda Python! Happy coding.
 
 
