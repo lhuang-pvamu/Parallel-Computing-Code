@@ -30,7 +30,7 @@ You need to set up your Python enviroments first. Download the environment.yml i
 
 ![Navigator](Env/import.png)
 
-- Choose the environment.yml file in the Python/Env folder and start importing your enviornment.
+- Choose the environment.yml file in the Python/Env folder and start importing your enviornment. It may take a few minutes to complete the importing and installation of these packages. 
 
 ![Navigator](Env/env-selection.png)
 
