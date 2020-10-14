@@ -19,6 +19,13 @@ sudo apt install make
 ### Mac Setup ###
 You need to install xcode and libomp
 
+If you don't have homebrew installed, please install it first by using the following command: 
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+After install homebrew, type the following commands to install xcode and libomp. 
+
 ```
 xcode-select --install
 brew install libomp
