@@ -17,6 +17,7 @@ dependencies:
   - distributed=2.11.0
   - notebook
   - matplotlib
+  - opencv-python
   - Pillow
   - pandas>=1.0.1
   - pandas-datareader
