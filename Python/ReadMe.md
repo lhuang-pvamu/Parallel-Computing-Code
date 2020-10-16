@@ -1,10 +1,10 @@
-# It is the setup instructions for using Anaconda Python
+# It is the setup instruction for using Anaconda Python with Navigator
 
 ## 1. Download and install Anaconda Python:
    
 You may download Anaconda Python from its official website: https://www.anaconda.com
 
-Anaconda Python is a python programming environment focusing on data science and computing. It is a cross-platform system when you may install on Windows, Linux or Mac. You may find the installation instructions for your OS on the following webpage: 
+Anaconda Python is a python programming environment focusing on data science and computing. It is a cross-platform system where you may install on Windows, Linux or Mac. You may find the installation instructions for your OS on the following webpage: 
    
 https://docs.anaconda.com/anaconda/install/
 
@@ -30,7 +30,7 @@ You need to set up your Python enviroments first. Download the environment.yml i
 
 ![Navigator](Env/import.png)
 
-- Choose the environment.yml file in the Python/Env folder and start importing your enviornment.
+- Choose the environment.yml file in the Python/Env folder and start importing your enviornment. It may take a few minutes to complete the importing and installation of these packages. 
 
 ![Navigator](Env/env-selection.png)
 
@@ -39,9 +39,14 @@ You need to set up your Python enviroments first. Download the environment.yml i
 1. Go back to Home,
 2. Select the parallel_computing as your environment,
 3. Launch JupyterLab,
+
+![Navigator](Env/launch.png)
+
 4. Go to your web browser, it started....
 
 ![Navigator](Env/Jupyter.png)
+
+--------
 
 ## Congratulations, you are good to start programming using Jupyter Notebook with Anaconda Python! Happy coding.
 
