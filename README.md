@@ -16,6 +16,14 @@ sudo apt install git
 sudo apt install make
 ```
 
+###  AWS Amazon Linux ###
+if you are using AWS Amazon Linux or Centos/Redhat, please use the following commands to install these software
+```
+sudo apt install gcc
+sudo apt install gcc-c++
+sudo apt install git
+```
+
 ### Mac Setup ###
 You need to install xcode and libomp
 
