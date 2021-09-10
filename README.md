@@ -19,9 +19,9 @@ sudo apt install make
 ###  AWS Amazon Linux ###
 if you are using AWS Amazon Linux or Centos/Redhat, please use the following commands to install these software
 ```
-sudo apt install gcc
-sudo apt install gcc-c++
-sudo apt install git
+sudo yum install gcc
+sudo yum install gcc-c++
+sudo yum install git
 ```
 
 ### Mac Setup ###
