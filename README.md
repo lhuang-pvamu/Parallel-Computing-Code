@@ -56,7 +56,6 @@ git clone https://github.com/lhuang-pvamu/Parallel-Computing-Code.git
 Go to each directory (such as labs/lab1), and the build the code using make.
 ```
 cd Parallel-Computing-Code
-cd labs/lab1
 ```
 
 If you are using Linux, skip this step. If you are using *Mac*, you need to replace the make.def file with make.mac. Simply copy make.mac to overrite make.def:
@@ -66,6 +65,7 @@ cp make.mac make.def
 
 Buid the lab 1 programs: 
 ```
+cd labs/lab1
 make
 ```
 
